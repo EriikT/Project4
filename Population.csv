@@ -1,0 +1,236 @@
+,Country,Population
+0,"1,439,323,776",China
+1,"1,380,004,385",India
+2,"331,002,651",United States
+3,"273,523,615",Indonesia
+4,"220,892,340",Pakistan
+5,"212,559,417",Brazil
+6,"206,139,589",Nigeria
+7,"164,689,383",Bangladesh
+8,"145,934,462",Russia
+9,"128,932,753",Mexico
+10,"126,476,461",Japan
+11,"114,963,588",Ethiopia
+12,"109,581,078",Philippines
+13,"102,334,404",Egypt
+14,"97,338,579",Vietnam
+15,"89,561,403",DR Congo
+16,"84,339,067",Turkey
+17,"83,992,949",Iran
+18,"83,783,942",Germany
+19,"69,799,978",Thailand
+20,"67,886,011",United Kingdom
+21,"65,273,511",France
+22,"60,461,826",Italy
+23,"59,734,218",Tanzania
+24,"59,308,690",South Africa
+25,"54,409,800",Myanmar
+26,"53,771,296",Kenya
+27,"51,269,185",South Korea
+28,"50,882,891",Colombia
+29,"46,754,778",Spain
+30,"45,741,007",Uganda
+31,"45,195,774",Argentina
+32,"43,851,044",Algeria
+33,"43,849,260",Sudan
+34,"43,733,762",Ukraine
+35,"40,222,493",Iraq
+36,"38,928,346",Afghanistan
+37,"37,846,611",Poland
+38,"37,742,154",Canada
+39,"36,910,560",Morocco
+40,"34,813,871",Saudi Arabia
+41,"33,469,203",Uzbekistan
+42,"32,971,854",Peru
+43,"32,866,272",Angola
+44,"32,365,999",Malaysia
+45,"31,255,435",Mozambique
+46,"31,072,940",Ghana
+47,"29,825,964",Yemen
+48,"29,136,808",Nepal
+49,"28,435,940",Venezuela
+50,"27,691,018",Madagascar
+51,"26,545,863",Cameroon
+52,"26,378,274",Côte d'Ivoire
+53,"25,778,816",North Korea
+54,"25,499,884",Australia
+55,"24,206,644",Niger
+56,"23,816,775",Taiwan
+57,"21,413,249",Sri Lanka
+58,"20,903,273",Burkina Faso
+59,"20,250,833",Mali
+60,"19,237,691",Romania
+61,"19,129,952",Malawi
+62,"19,116,201",Chile
+63,"18,776,707",Kazakhstan
+64,"18,383,955",Zambia
+65,"17,915,568",Guatemala
+66,"17,643,054",Ecuador
+67,"17,500,658",Syria
+68,"17,134,872",Netherlands
+69,"16,743,927",Senegal
+70,"16,718,965",Cambodia
+71,"16,425,864",Chad
+72,"15,893,222",Somalia
+73,"14,862,924",Zimbabwe
+74,"13,132,795",Guinea
+75,"12,952,218",Rwanda
+76,"12,123,200",Benin
+77,"11,890,784",Burundi
+78,"11,818,619",Tunisia
+79,"11,673,021",Bolivia
+80,"11,589,623",Belgium
+81,"11,402,528",Haiti
+82,"11,326,616",Cuba
+83,"11,193,725",South Sudan
+84,"10,847,910",Dominican Republic
+85,"10,708,981",Czech Republic (Czechia)
+86,"10,423,054",Greece
+87,"10,203,134",Jordan
+88,"10,196,709",Portugal
+89,"10,139,177",Azerbaijan
+90,"10,099,265",Sweden
+91,"9,904,607",Honduras
+92,"9,890,402",United Arab Emirates
+93,"9,660,351",Hungary
+94,"9,537,645",Tajikistan
+95,"9,449,323",Belarus
+96,"9,006,398",Austria
+97,"8,947,024",Papua New Guinea
+98,"8,737,371",Serbia
+99,"8,655,535",Israel
+100,"8,654,622",Switzerland
+101,"8,278,724",Togo
+102,"7,976,983",Sierra Leone
+103,"7,496,981",Hong Kong
+104,"7,275,560",Laos
+105,"7,132,538",Paraguay
+106,"6,948,445",Bulgaria
+107,"6,871,292",Libya
+108,"6,825,445",Lebanon
+109,"6,624,554",Nicaragua
+110,"6,524,195",Kyrgyzstan
+111,"6,486,205",El Salvador
+112,"6,031,200",Turkmenistan
+113,"5,850,342",Singapore
+114,"5,792,202",Denmark
+115,"5,540,720",Finland
+116,"5,518,087",Congo
+117,"5,459,642",Slovakia
+118,"5,421,241",Norway
+119,"5,106,626",Oman
+120,"5,101,414",State of Palestine
+121,"5,094,118",Costa Rica
+122,"5,057,681",Liberia
+123,"4,937,786",Ireland
+124,"4,829,767",Central African Republic
+125,"4,822,233",New Zealand
+126,"4,649,658",Mauritania
+127,"4,314,767",Panama
+128,"4,270,571",Kuwait
+129,"4,105,267",Croatia
+130,"4,033,963",Moldova
+131,"3,989,167",Georgia
+132,"3,546,421",Eritrea
+133,"3,473,730",Uruguay
+134,"3,280,819",Bosnia and Herzegovina
+135,"3,278,290",Mongolia
+136,"2,963,243",Armenia
+137,"2,961,167",Jamaica
+138,"2,881,053",Qatar
+139,"2,877,797",Albania
+140,"2,860,853",Puerto Rico
+141,"2,722,289",Lithuania
+142,"2,540,905",Namibia
+143,"2,416,668",Gambia
+144,"2,351,627",Botswana
+145,"2,225,734",Gabon
+146,"2,142,249",Lesotho
+147,"2,083,374",North Macedonia
+148,"2,078,938",Slovenia
+149,"1,968,001",Guinea-Bissau
+150,"1,886,198",Latvia
+151,"1,701,575",Bahrain
+152,"1,402,985",Equatorial Guinea
+153,"1,399,488",Trinidad and Tobago
+154,"1,326,535",Estonia
+155,"1,318,445",Timor-Leste
+156,"1,271,768",Mauritius
+157,"1,207,359",Cyprus
+158,"1,160,164",Eswatini
+159,"988,000",Djibouti
+160,"896,445",Fiji
+161,"895,312",Réunion
+162,"869,601",Comoros
+163,"786,552",Guyana
+164,"771,608",Bhutan
+165,"686,884",Solomon Islands
+166,"649,335",Macao
+167,"628,066",Montenegro
+168,"625,978",Luxembourg
+169,"597,339",Western Sahara
+170,"586,632",Suriname
+171,"555,987",Cabo Verde
+172,"548,914",Micronesia
+173,"540,544",Maldives
+174,"441,543",Malta
+175,"437,479",Brunei 
+176,"400,124",Guadeloupe
+177,"397,628",Belize
+178,"393,244",Bahamas
+179,"375,265",Martinique
+180,"341,243",Iceland
+181,"307,145",Vanuatu
+182,"298,682",French Guiana
+183,"287,375",Barbados
+184,"285,498",New Caledonia
+185,"280,908",French Polynesia
+186,"272,815",Mayotte
+187,"219,159",Sao Tome & Principe
+188,"198,414",Samoa
+189,"183,627",Saint Lucia
+190,"173,863",Channel Islands
+191,"168,775",Guam
+192,"164,093",Curaçao
+193,"119,449",Kiribati
+194,"112,523",Grenada
+195,"110,940",St. Vincent & Grenadines
+196,"106,766",Aruba
+197,"105,695",Tonga
+198,"104,425",U.S. Virgin Islands
+199,"98,347",Seychelles
+200,"97,929",Antigua and Barbuda
+201,"85,033",Isle of Man
+202,"77,265",Andorra
+203,"71,986",Dominica
+204,"65,722",Cayman Islands
+205,"62,278",Bermuda
+206,"59,190",Marshall Islands
+207,"57,559",Northern Mariana Islands
+208,"56,770",Greenland
+209,"55,191",American Samoa
+210,"53,199",Saint Kitts & Nevis
+211,"48,863",Faeroe Islands
+212,"42,876",Sint Maarten
+213,"39,242",Monaco
+214,"38,717",Turks and Caicos
+215,"38,666",Saint Martin
+216,"38,128",Liechtenstein
+217,"33,931",San Marino
+218,"33,691",Gibraltar
+219,"30,231",British Virgin Islands
+220,"26,223",Caribbean Netherlands
+221,"18,094",Palau
+222,"17,564",Cook Islands
+223,"15,003",Anguilla
+224,"11,792",Tuvalu
+225,"11,239",Wallis & Futuna
+226,"10,824",Nauru
+227,"9,877",Saint Barthelemy
+228,"6,077",Saint Helena
+229,"5,794",Saint Pierre & Miquelon
+230,"4,992",Montserrat
+231,"3,480",Falkland Islands
+232,"1,626",Niue
+233,"1,357",Tokelau
+234,801,Holy See
